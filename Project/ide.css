@@ -1,0 +1,48 @@
+.body{
+  margin: 0;
+  padding: 0;
+  background: url(img.jpg);
+  background-position: center;
+  width: 100%
+}
+
+.background{
+  background: url(IMG.jpg);
+  width: inherit;
+  display: inline;
+  position: fixed;
+}
+
+.logo{
+  width: 80%;
+  margin-left: 12%;
+  display: inline-block;
+  text-align: left;
+  margin-top: -100px;
+}
+
+.search{
+  text-align: right;
+  margin-top: -50px;
+}
+
+.h1{
+  text-align: left;
+  margin-left: 8%;
+}
+
+.judul{
+  text-align: center;
+}
+
+.isi{
+  width: 45%;
+  margin-left: 8%;
+  display: inline-block;
+  text-align: justify;
+  background-color: white;
+}
+
+.sumber{
+  font-style: italic;
+}

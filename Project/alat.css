@@ -1,0 +1,48 @@
+.body{
+  margin: 0;
+  padding: 0;
+  background: url(img.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.logo{
+  width: 80%;
+  margin-left: 12%;
+  display: inline-block;
+  text-align: left;
+  margin-top: -100px;
+}
+
+.search{
+  text-align: right;
+}
+
+.h1{
+  text-align: left;
+  margin-left: 8%;
+}
+
+.judul{
+  text-align: center;
+}
+
+.isi{
+  width: 45%;
+  margin-left: 8%;
+  display: inline-block;
+  text-align: justify;
+  background-color: white;
+}
+
+.sumber{
+  font-style: italic;
+}
+
+.merajut-1{
+  text-align: right;
+  margin-right: 8%;
+  top: -500px
+}
